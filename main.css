@@ -45,11 +45,11 @@
             fill:rgb(44, 212, 201);
             }
             50%{
-                fill:rgb(13, 190, 107);
+                fill:rgb(2, 112, 63);
             }
         }
         #top-circle{
-            fill:yellow;
+            fill:rgb(0, 255, 76);
 }
 
   /* Animation for middle circle */
@@ -64,7 +64,7 @@
             fill:rgb(212, 44, 145);
             }
             50%{
-                fill:rgb(22, 13, 190);
+                fill:rgb(13, 134, 190);
             }
         }
     
